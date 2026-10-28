@@ -85,7 +85,7 @@ function App() {
 
             <p className="hero-description">
               I specialize in ETL testing, data validation, Python
-              automation, SQL, and data warehouse testing. I build
+              automation with pandas script,pyspark frame work, SQL, and data warehouse testing. I build
               reliable solutions that improve data quality and testing
               efficiency.
             </p>
